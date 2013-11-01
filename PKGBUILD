@@ -1,4 +1,5 @@
-# Maintainer: 謝致邦<Yeking@Red54.com>
+# Maintainer: lestb <b.lester011+arch at gmail dot com>
+# Contributor: 謝致邦<Yeking@Red54.com>
 
 pkgname=lubuntu-artwork
 pkgver=0.38.1
